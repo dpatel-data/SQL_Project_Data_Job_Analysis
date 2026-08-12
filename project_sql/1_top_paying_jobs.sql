@@ -29,7 +29,7 @@ where
 
 
 
--- Focuse on job postings with specified salaries (remove nulls).
+-- Focus on job postings with specified salaries (remove nulls).
 
 select
     job_id,
