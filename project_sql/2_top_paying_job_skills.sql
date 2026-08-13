@@ -1,5 +1,7 @@
 -- QUESTION: What are the skills required for these top-paying roles?
 
+
+
 -- Turning this to a CTE.
 
 with top_paying_jobs as (

@@ -1,5 +1,7 @@
 -- QUESTION: What are the top-paying data analyst jobs?
 
+
+
 select
     job_id,
     job_title,
